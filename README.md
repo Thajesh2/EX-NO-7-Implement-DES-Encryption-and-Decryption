@@ -11,8 +11,8 @@
 
 ## PROGRAM: 
 ```
-Name:Lokesh N
-Reg No:212222100023
+Name:THAJESH K
+Reg No:212223230229
 ```
 ```
 #include <stdio.h>
